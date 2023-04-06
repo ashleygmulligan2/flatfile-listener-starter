@@ -21,7 +21,6 @@
   },
   "scripts": {
     "start": "ts-node app.ts",
-    "deploy:xdk": "flatfile publish src/spaceConfigs/xdk-simple-pt1-deploy.ts",
-    "deploy:spacelistener": "flatfile pubsub src/listeners/space-listener.ts"
+    "deploy:initlistener": "flatfile pubsub src/listeners/init-action-listener.ts"
   }
 }
