@@ -16,10 +16,6 @@ Once you deploy, head back to dashboard.flatfile.com and click Create Space. You
 
 # Learn
 
-### SpaceConfigs
-
-in progress
-
 ### Listeners
 
 When you deploy an Agent, that lives on the Environment level. You can use any new or already deployed SpaceConfig/Space to listen for Events.
